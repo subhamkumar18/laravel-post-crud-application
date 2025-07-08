@@ -23,8 +23,8 @@ A professional-grade Laravel CRUD application for managing posts. Includes featu
 
 ## 🐳 Docker Setup Instructions
 
-docker-compose build
-docker-compose up 
+- docker-compose build
+- docker-compose up 
 
 ##  Run Project Locally
  - cd laravel-app
