@@ -18,7 +18,7 @@ A professional-grade Laravel CRUD application for managing posts. Includes featu
 ---
 ### 1. Clone the Repo
 
- - git clone https://github.com/YOUR_USERNAME/laravel-post-crud-application.git
+ - git clone https://github.com/subhamkumar18/laravel-post-crud-application
  - cd laravel-post-crud-application
 
 ## 🐳 Docker Setup Instructions
